@@ -9,17 +9,6 @@ A GitHub-ready Python project that analyzes email text and flags phishing risk u
 
 This project is ideal for showing **cybersecurity**, **Python**, and **data analysis** skills in one repository.
 
-## Screenshots
-
-### Single email analysis
-![Single email dashboard](assets/dashboard_home.png)
-
-### Batch CSV scan
-![Batch scan dashboard](assets/dashboard_batch.png)
-
-### Confusion matrix
-![Confusion matrix](assets/confusion_matrix.png)
-
 ## Why this project is good for GitHub
 
 It shows that you can:
